@@ -1,0 +1,11 @@
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\AzureProject.exe
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\appsettings.Development.json
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\appsettings.json
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\AzureProject.dll
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\AzureProject.deps.json
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\AzureProject.runtimeconfig.json
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\AzureProject.pdb
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\Microsoft.OpenApi.dll
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PrasadLahane\source\repos\AzureProject\AzureProject\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
